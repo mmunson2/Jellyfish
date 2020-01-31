@@ -1,4 +1,4 @@
 # Jellyfish
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/mmunson2/Jellyfish/blob/master/Jelly.png "Logo Title Text 1")
 
