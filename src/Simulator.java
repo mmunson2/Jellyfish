@@ -59,7 +59,7 @@ public class Simulator implements Runnable
 
 
     //______________________________________________________________________
-    // Shared components with the Control class - be careful!`
+    // Shared components with the Control class - be careful!
 
     private DepthSensor depthSensor;
     private BuoyancyEngine[] buoyancyEngines;
@@ -275,7 +275,6 @@ public class Simulator implements Runnable
 
         return mass;
     }
-
 
     /***************************************************************************
      * Tells the Depth Sensor what depth it's at
